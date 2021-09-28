@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunoTonet-GIT!
-- 👀 I’m interested in Psychology, Behavior Analysis (Experimental & Applied) and Data Science.
-- 🌱 I’m currently learning statistical data analysis in Psychology and Education research.
+- 👀 My main interest is in Psychology, Behavior Analysis (Experimental & Applied) and Data Science - with R and SQL.
+- 🌱 I’m currently learning statistical data analysis in Psychology and Education researchs.
 - 💞️ I’m looking to collaborate on psychological and behavior research, data and analysis.
 - 📫 How to reach me: tonet.contato@gmail.com
 
