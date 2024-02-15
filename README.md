@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunoTonet-GIT!
-- I'm graduated in Psychology and have a Master Degree in Education.
+- 🧠 I'm graduated in Psychology and have a Master Degree in Education.
 - 👀 My main interest is in Psychology, Behavior Analysis (Experimental & Applied) and Data Science - using R, Python and SQL/NOSQL.
 - 🌱 Currently learning more and deeper statistical data analysis in Psychology and Education researchs.
 - 💞️ Looking to collaborate on psychological and behavior research, data and analysis.
